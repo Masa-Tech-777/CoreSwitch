@@ -2,7 +2,7 @@ CoreSwitch
 README EN / Distribution Guide
 ============================================================
 
-v3.0.11 test release candidate
+v3.0.11
 
 ■ Introduction
 
